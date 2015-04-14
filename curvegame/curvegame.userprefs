@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Padel.cs">
+    <Files>
+      <File FileName="Assets/LeapMotion/Scripts/BallScript.cs" Line="13" Column="7" />
+      <File FileName="../Desktop/fall 2014/visual program/Part X Shooting/Unitank/Assets/Scripts/AlienController.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/HandController.cs" Line="24" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Menu.cs" Line="11" Column="29" />
+      <File FileName="Assets/Padel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
