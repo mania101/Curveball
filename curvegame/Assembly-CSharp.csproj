@@ -113,6 +113,7 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
      <Compile Include="Assets\hci\Scripts\BallScript.cs" />
+     <Compile Include="Assets\hci\Scripts\HandPaddle.cs" />
      <Compile Include="Assets\hci\Scripts\Menu.cs" />
      <Compile Include="Assets\hci\Scripts\Padel.cs" />
      <None Include="Assets\LeapMotion\Resources\LeapIRUndistorted.shader" />
@@ -140,7 +141,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>/Users/robertmaniaci/GitHub/Curveball/curvegame/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>/Users/robertmaniaci/curvegame/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
