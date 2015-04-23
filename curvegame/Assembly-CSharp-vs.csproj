@@ -116,6 +116,7 @@
      <Compile Include="Assets\hci\Scripts\HandPaddle.cs" />
      <Compile Include="Assets\hci\Scripts\Menu.cs" />
      <Compile Include="Assets\hci\Scripts\Padel.cs" />
+     <Compile Include="Assets\hci\Scripts\StartGame.cs" />
      <None Include="Assets\LeapMotion\Resources\LeapIRUndistorted.shader" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\LeapMotion\Materials\Sources\Shaders\Toony-Basic.shader" />
